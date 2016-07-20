@@ -8,6 +8,9 @@ To run:
 
 	Then navigate to the build directory and load "build/index.html" in a browser. 
 
+To test:
+	Open test/runner.html
+
 Instructions:
 	Click the mouse to make a ball appear and fly at a random direction and velocity
 
